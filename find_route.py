@@ -1,7 +1,7 @@
 '''
-CSCI 404A--Project 1
+CSCI 404A
 Deepak Rajasekhar Karishetti
-
+CSM
 '''
 
 
