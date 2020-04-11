@@ -1,22 +1,22 @@
 ## Uniform cost search
 
-**1. Name and CSM Campus ID of the student.**
+**Name and CSM Campus ID of the student**
 
 	Name: Deepak Rajasekhar Karishetti
 	CSM Campus ID: 
 
 
-2. What programming language is used.
+**What programming language is used**
 
-	Python 3.
+	Python 3
 
 
-3. What OS is used to compile and run the codes.
+**What OS is used to compile and run the codes**
 	
-	Ubuntu 16.04 LTS.
+	Ubuntu 16.04 LTS
 
 
-4. How the code is structured.
+**How the code is structured**
 	
 	-Initially with the start of the program, all the necessary modules are imported.
 	-A graph dictionary is created using the data from the input text file.
@@ -29,7 +29,7 @@
 	-Finally, the main function is called to run the whole program to implement the search algorithm to find the route beteween two input cities.
 
 
-5. How to run the code, including very specific compilation instructions, if compilation is needed. Instructions such as "compile using g++" are NOT considered specific.
+**How to run the code**
 
 	-Open the file location on Linux terminal (having both the find_route.py and the input text file).
 
